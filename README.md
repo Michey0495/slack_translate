@@ -1,5 +1,56 @@
 # Translation Bot
 
+Translation Botは、各Slackチャンネルに招待することで、英語と日本語のコミュニケーションを円滑にする自動翻訳ボットです。
+
+## 特徴
+
+- 英語と日本語のメッセージを自動的に翻訳します。
+- 設定は簡単：ボットをチャンネルに招待するだけです。
+- 多言語チームでのスムーズなコミュニケーションをサポートします。
+
+## インストール
+
+Translation BotをSlackワークスペースにインストールして使用するには、以下の手順に従ってください。
+
+1. **ボットをワークスペースに追加する:**
+   - 以下の「Add to Slack」ボタンをクリックして、Translation BotをSlackワークスペースに追加します。
+   - [Add to Slack](https://slack.com/oauth/v2/authorize?client_id=YOUR_CLIENT_ID&scope=YOUR_SCOPES&redirect_uri=YOUR_REDIRECT_URI)
+
+2. **ボットをチャンネルに招待する:**
+   - ボットがワークスペースに追加されたら、翻訳サービスが必要なチャンネルにボットを招待してください。
+   - ボットは、招待されたチャンネル内で自動的に英語と日本語のメッセージを翻訳します。
+
+## 使用方法
+
+1. **ボットの招待:**
+   - 翻訳が必要なチャンネルに `/invite @TranslationBot` と入力してボットを招待します。
+
+2. **自動翻訳:**
+   - ボットは、招待されたチャンネル内で英語から日本語、またはその逆のメッセージを自動的に翻訳します。
+
+## プライバシーポリシー
+
+お客様のプライバシーは重要です。データの処理方法については、[プライバシーポリシー](privacy_policy.html)をご確認ください。
+
+## サポート
+
+ご質問やサポートが必要な場合は、[サポートページ](support.html)をご覧いただくか、[support@example.com](mailto:support@example.com)までご連絡ください。
+
+## ライセンス
+
+このプロジェクトはMITライセンスの下でライセンスされています。詳細については、[LICENSE](LICENSE)ファイルをご覧ください。
+
+## 貢献
+
+私たちは貢献を歓迎します！貢献する前に、[貢献ガイドライン](CONTRIBUTING.md)をお読みください。
+
+---
+
+© 2024 michey0495
+
+
+# Translation Bot
+
 Translation Bot is an automatic translation bot that facilitates English ↔︎ Japanese communication by being invited to each Slack channel.
 
 ## Features
@@ -46,4 +97,4 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ---
 
-© 2024 Translation Bot
+© 2024 michey0495
